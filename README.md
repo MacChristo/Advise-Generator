@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]('.\images\advice.png')
+![Screenshot]('advice.png')
 
 ### Links
 
