@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Advise-generator/static/css/main.ce57170f.css",
+    "main.js": "/Advise-generator/static/js/main.c854cbad.js",
+    "index.html": "/Advise-generator/index.html",
+    "main.ce57170f.css.map": "/Advise-generator/static/css/main.ce57170f.css.map",
+    "main.c854cbad.js.map": "/Advise-generator/static/js/main.c854cbad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce57170f.css",
+    "static/js/main.c854cbad.js"
+  ]
+}
