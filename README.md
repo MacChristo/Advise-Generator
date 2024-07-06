@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot]('public\images\advice.png')
+![Screenshot]('.\images\advice.png')
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repo URL](https://github.com/MacChristo/Advise-generator.git)
+- Live Site URL: [Live Site](https://macchristo.github.io/Advise-generator/)
 
 ## My process
 
